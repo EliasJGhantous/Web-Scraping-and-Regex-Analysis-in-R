@@ -13,12 +13,19 @@ The purpose of this assignment is threefold:
 •Once again for this workout, you will produce a report document that will be in a narrative format and share all the files used/generated for the purpose of analysis via GitHub.
 
 You will be working with the Google Scholar citations data set for 2 Noble laureates of the same field who received the Noble prize in near years. Just keep in mind that the two authors should have significant years of overlap in their publications and should have a google scholar User Profile. Consider some examples below: 
+
 •Abhijit Banerjee (Economics, 2019) and Esther Duflo (Economics, 2019) 
+
 •Paul Romer (Economics, 2018) and William Nordhaus (Economics, 2019) 
+
 •Greg Winter (Chemistry, 2018) and Frances Arnold (Chemistry, 2018) 
+
 •Joachim Frank (Chemistry, 2017) and Richard Henderson (Chemistry, 2017) 
+
 •Stefan Hell (Chemistry, 2014) and William Moerner (Chemistry, 2014) 
+
 •Richard Thaler(Economics, 2017) and Angus Deaton (Economics, 2015) 
+
 •Jean Tirole (Economics, 2014) and Angus Deaton (Economics, 2015)
 
 I have chosen Paul Romer and William Nordhaus to analyze.
